@@ -1,0 +1,41 @@
+﻿"ID","Title","Automation Type","Created By","Created On","Estimate","Expected Result","Forecast","Goals","Mission","Preconditions","Priority","References","Section","Section Depth","Section Description","Section Hierarchy","Steps","Steps","Steps (Additional Info)","Steps (Expected Result)","Steps (References)","Steps (Shared step ID)","Steps (Step)","Suite","Suite ID","Template","Type","Updated By","Updated On"
+"C1","Wyświetlenie RODO"," None","Marcin Rusiniak","8/4/2022 9:29 PM","","","","","","Komputer z dostępem do internetu
+Otwarta przeglądarka Google Chrome
+Użytkownik niezarejestrowany","Medium","","Test Cases","0","","Test Cases","1. Wpisuje adres strony http://217.182.77.155:4200/faq
+Expected Result:
+Widzę że strona otwiera się.
+2. Obserwuje stronę
+Expected Result:
+Widzę wyświetlone pliki cookies","","1. 
+2.","1. Widzę że strona otwiera się.
+2. Widzę wyświetlone pliki cookies","1. 
+2.","1. 
+2.","1. Wpisuje adres strony http://217.182.77.155:4200/faq
+2. Obserwuje stronę","Master","S1","Test Case (Steps)","Other","Marcin Rusiniak","8/4/2022 10:13 PM"
+"C2","Strona pozostaje zablokowana do momentu akceptacji bądz odrzucenia plików cookies"," None","Marcin Rusiniak","8/4/2022 9:49 PM","","","","","","Przeglądarka Google Chrome Wersja 103.0.5060.134 (Oficjalna wersja) (64-bitowa)
+
+","Medium","","Test Cases","0","","Test Cases","1. Klikam przycsiki inne niż akceptuj lub odrzuć
+Expected Result:
+Strona jest zablokowana (nie da się nic zrobić)","","1.","1. Strona jest zablokowana (nie da się nic zrobić)","1.","1.","1. Klikam przycsiki inne niż akceptuj lub odrzuć","Master","S1","Test Case (Steps)","Other","Marcin Rusiniak","8/4/2022 9:49 PM"
+"C3","Przyciski w oknie dialogowym ""Cookies"""," None","Marcin Rusiniak","8/4/2022 9:55 PM","","","","","","Przeglądarka Google Chrome Wersja 103.0.5060.134 (Oficjalna wersja) (64-bitowa)
+Otwarta strona Skitraj.pl","Medium","","Test Cases","0","","Test Cases","1. Obserwuje okno z komunikatem cookies
+Expected Result:
+1.Przyciski są wyr&oacute;wnane do prawej strony
+2.Przyciski znajdują się obok siebie","","1.","1. 1.Przyciski są wyr&oacute;wnane do prawej strony
+2.Przyciski znajdują się obok siebie","1.","1.","1. Obserwuje okno z komunikatem cookies","Master","S1","Test Case (Steps)","Other","Marcin Rusiniak","8/4/2022 9:56 PM"
+"C4","Rozmieszczenie przycisków względem siebie"," None","Marcin Rusiniak","8/4/2022 9:59 PM","","","","","","Wersja 103.0.5060.134 (Oficjalna wersja) (64-bitowa)
+Otwarta strona Skitraj.pl","Medium","","Test Cases","0","","Test Cases","1. Obserwuje okno z komunikatem cookies.
+Expected Result:
+Przycisk : ""Odrzuć"" jest po lewej stronie a ""Akceptuj"" po prawej.","","1.","1. Przycisk : ""Odrzuć"" jest po lewej stronie a ""Akceptuj"" po prawej.","1.","1.","1. Obserwuje okno z komunikatem cookies.","Master","S1","Test Case (Steps)","Other","Marcin Rusiniak","8/4/2022 9:59 PM"
+"C5","Responsywność przycisku ""Odrzuć wszystkie"" podczas najezdzania na niego kursorem"," None","Marcin Rusiniak","8/4/2022 10:02 PM","","","","","","Wersja 103.0.5060.134 (Oficjalna wersja) (64-bitowa)
+Otwarta strona Skitraj.pl","Medium","","Test Cases","0","","Test Cases","1. Przesuwam kursor na przycisk ""Odrzuć wszystkie""
+Expected Result:
+Przycisk ""Odrzuć wszystkie "" nie zmienia się podczas najeżdżania na niego kursorem","","1.","1. Przycisk ""Odrzuć wszystkie "" nie zmienia się podczas najeżdżania na niego kursorem","1.","1.","1. Przesuwam kursor na przycisk ""Odrzuć wszystkie""","Master","S1","Test Case (Steps)","Other","Marcin Rusiniak","8/4/2022 10:02 PM"
+"C6","Responsywność przycisku ""Akceptuj wszystkie"""," None","Marcin Rusiniak","8/4/2022 10:07 PM","","","","","","Wersja 103.0.5060.134 (Oficjalna wersja) (64-bitowa)
+Otwarta strona Skirtaj.pl","Medium","","Test Cases","0","","Test Cases","1. Najeżdżam kursorem na przycisk ""Akceptuj wszystkie""
+Expected Result:
+Widzę że tło przycisku zmienia się na biały, czcionka zmienia się na pomarańczowy a border pozostaje pomarańczowy.","","1.","1. Widzę że tło przycisku zmienia się na biały, czcionka zmienia się na pomarańczowy a border pozostaje pomarańczowy.","1.","1.","1. Najeżdżam kursorem na przycisk ""Akceptuj wszystkie""","Master","S1","Test Case (Steps)","Other","Marcin Rusiniak","8/4/2022 10:07 PM"
+"C7","Polityka prywatnośći"," None","Marcin Rusiniak","8/4/2022 10:10 PM","","","","","","Wersja 103.0.5060.134 (Oficjalna wersja) (64-bitowa)
+Otwarta strona Skitraj.pl","Medium","","Test Cases","0","","Test Cases","1. Obserwuje słowa ""polityka prywatności"".
+Expected Result:
+Widzę że słowa ""polityka prywatności"" są linkiem i po kliknięciu otwiera się polityka prywatności w nowym oknie.","","1.","1. Widzę że słowa ""polityka prywatności"" są linkiem i po kliknięciu otwiera się polityka prywatności w nowym oknie.","1.","1.","1. Obserwuje słowa ""polityka prywatności"".","Master","S1","Test Case (Steps)","Other","Marcin Rusiniak","8/4/2022 10:10 PM"
