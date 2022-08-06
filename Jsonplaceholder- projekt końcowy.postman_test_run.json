@@ -1,0 +1,106 @@
+{
+	"id": "1753b3d6-636a-4aed-b3d7-244b6fd4ddee",
+	"name": "Jsonplaceholder- projekt końcowy",
+	"timestamp": "2022-08-06T21:41:23.975Z",
+	"collection_id": "21200702-5720e506-45a9-494e-a762-8bc13858e31f",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "1bed752a-de29-462a-9567-fb479b05041f",
+			"name": "Pobieranie danych",
+			"url": "https://jsonplaceholder.typicode.com/posts",
+			"time": 87,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				87
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "38dcdd81-25c3-4a56-865e-342f44c4d2dc",
+			"name": "Dodawanie danych",
+			"url": "https://jsonplaceholder.typicode.com/posts",
+			"time": 244,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				244
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "b6ff36a4-4c12-453f-89ed-819fb411112b",
+			"name": "Aktualizacja danych",
+			"url": "https://jsonplaceholder.typicode.com/posts/22",
+			"time": 278,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				278
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "60ef915f-8d83-43ae-b94f-e72173c1297f",
+			"name": "Usuwanie danych",
+			"url": "https://jsonplaceholder.typicode.com/posts/22",
+			"time": 261,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				261
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 870,
+	"collection": {
+		"requests": [
+			{
+				"id": "1bed752a-de29-462a-9567-fb479b05041f",
+				"method": "GET"
+			},
+			{
+				"id": "38dcdd81-25c3-4a56-865e-342f44c4d2dc",
+				"method": "POST"
+			},
+			{
+				"id": "b6ff36a4-4c12-453f-89ed-819fb411112b",
+				"method": "PUT"
+			},
+			{
+				"id": "60ef915f-8d83-43ae-b94f-e72173c1297f",
+				"method": "DELETE"
+			}
+		]
+	}
+}
