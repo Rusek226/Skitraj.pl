@@ -1,0 +1,25 @@
+Moduł "Cookies"​
+
+Jako użytkownik nie zalogowany wchodzący na stronę raz pierwszy zostaje mi wyświetlony komunikat rodo​
+
+Jako użytkownik mam do wyboru dwa przyciski  "odrzuć wszystkie" i "akceptuj wszystkie"​
+​
+
+​
+
+Kryteria Akceptacyjne:​
+
+Do momentu wybrania któregoś z przycisków strona jest "zablokowana" - to znaczy, że do kliknięcia któregokolwiek z przycisków strony nie działa (nie da się nic wybrać), zachowuje się jakby między cookies, a nią była niewidzialna warstwa. To kryterium tyczy się zarówno wersji desktopowej jak i mobilnej.​
+
+Przyciski są wyrównane do prawej strony i umieszczone obok siebie. ​
+
+Odrzuć jest po lewej, a akceptuj po prawej stronie.​
+
+Przycisk "odrzuć wszystkie" nie zmienia się podczas najeżdżania na niego kursorem​
+
+Przycisk "akceptuj wszystkie" po najechaniu zachowuje się jak przycisk "zamów" na stronie głównej. Background zmienia się na biały, czcionka zmienia się na pomarańczowy, a border pozostaje pomarańczowy.​
+
+Słowa "polityka prywatności" są linkiem do polityki prywatności i po kliknięciu otwiera się polityka prywatności w nowym oknie.​
+
+​
+​
