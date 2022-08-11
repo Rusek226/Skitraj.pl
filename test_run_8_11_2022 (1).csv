@@ -1,0 +1,8 @@
+﻿"ID","Title","Assigned To","Case ID","Comment","Defects","Elapsed","Estimate","Forecast","In Progress","Plan","Plan ID","Priority","References","Run","Run Configuration","Run ID","Section","Section Depth","Section Description","Status","Tested By","Tested On","Type","Version"
+"T8","Wyświetlenie RODO","","C1","","","","","","","","","Medium","","Test Run 8/11/2022","","R2","Test Cases","0","","Passed","Marcin Rusiniak","8/11/2022 9:05 PM","Other",""
+"T9","Strona pozostaje zablokowana do momentu akceptacji bądz odrzucenia plików cookies","Marcin Rusiniak","C2","","","","","","","","","Medium","","Test Run 8/11/2022","","R2","Test Cases","0","","Failed","Marcin Rusiniak","8/11/2022 9:22 PM","Other",""
+"T10","Przyciski w oknie dialogowym ""Cookies""","Marcin Rusiniak","C3","","","","","","","","","Medium","","Test Run 8/11/2022","","R2","Test Cases","0","","Failed","Marcin Rusiniak","8/11/2022 9:09 PM","Other",""
+"T11","Rozmieszczenie przycisków względem siebie","","C4","","","","","","","","","Medium","","Test Run 8/11/2022","","R2","Test Cases","0","","Failed","Marcin Rusiniak","8/11/2022 9:12 PM","Other",""
+"T12","Responsywność przycisku ""Odrzuć wszystkie"" podczas najezdzania na niego kursorem","","C5","","","","","","","","","Medium","","Test Run 8/11/2022","","R2","Test Cases","0","","Failed","Marcin Rusiniak","8/11/2022 9:15 PM","Other",""
+"T13","Responsywność przycisku ""Akceptuj wszystkie""","","C6","","","","","","","","","Medium","","Test Run 8/11/2022","","R2","Test Cases","0","","Passed","Marcin Rusiniak","8/11/2022 9:15 PM","Other",""
+"T14","Polityka prywatnośći","","C7","","","","","","","","","Medium","","Test Run 8/11/2022","","R2","Test Cases","0","","Failed","Marcin Rusiniak","8/11/2022 9:18 PM","Other",""
